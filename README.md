@@ -1,6 +1,6 @@
 - 👋 Hello, my name is Jack Oberman.
 - 📚 I'm currently a student at the University of South Carolina studying Computer Science and Math
-- 👀 I have an interest in Machine Learning, Artificial Intelligence, Data Science, Algorithms
+- 👀 I have an interest in Machine Learning, Artificial Intelligence, Data Science, and Computer Algorithms
 - 📫 You can reach me at jackcoberman@gmail.com
 
 For my Capstone Project at USC, I helped code a Bookstore web application in React using the MERN Stack.  
