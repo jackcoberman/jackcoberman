@@ -1,5 +1,5 @@
-- 👋 Hello, my name is Jack Oberman.
-- 📚 I'm currently a student at the University of South Carolina studying Computer Science and Math
+- 👋 Hello, my name is Jack Oberman
+- 📚 I'm a graduate from the University of South Carolina in Computer Science and Math
 - 👀 I have an interest in Artificial Intelligence, Quantum Computing, Machine Learning, Data Science, and Computer Algorithms
 - 📫 You can reach me at jackcoberman@gmail.com
 
